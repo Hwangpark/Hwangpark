@@ -69,8 +69,6 @@ AI 모델을 만드는 것에서 끝나지 않고, **실제 서비스에서 동�
 <img src="https://github-readme-stats.vercel.app/api?username=Hwangpark&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangpark&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hwangpark&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
 </div>
 
 ---
@@ -95,3 +93,11 @@ NVIDIA DLI 글로벌 인증서 × 15
 ├── 컴퓨터 비전
 └── Edge AI 배포
 ```
+
+---
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangpark&count_bg=0d1117&title_bg=0d1117&icon=github.svg&icon_color=58a6ff&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+
+</div>
