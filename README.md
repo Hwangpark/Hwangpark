@@ -96,10 +96,3 @@ NVIDIA DLI 글로벌 인증서 × 15
 └── Edge AI 배포
 ```
 
----
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangpark&count_bg=0d1117&title_bg=0d1117&icon=github.svg&icon_color=58a6ff&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
