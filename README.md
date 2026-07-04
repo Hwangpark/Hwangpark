@@ -77,10 +77,7 @@ AI 모델을 만드는 것에서 끝나지 않고, **실제 서비스에서 동�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hwangpark&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangpark&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=Hwangpark&theme=tokyonight&hide_border=true&background=1a1b27" height="165" />
+<img src="https://streak-stats.demolab.com?user=Hwangpark&theme=tokyonight&hide_border=true&background=1a1b27" height="180" />
 
 </div>
 
