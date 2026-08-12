@@ -30,7 +30,7 @@ AI 모델을 만드는 것에서 끝나지 않고, **실제 서비스에서 동�
 | **실시간 STT 모니터링** | gRPC 양방향 스트리밍, 채널별 검증, 장애 재현 체계 | `Python` `gRPC` `WebRTC` |
 | **FAQ 챗봇 + Contact Center 연동** | 1차 응대 24시간 전환, 상담사 Context handoff | `Zoom AI Studio` `Python` |
 
-## 🎓 공개 프로젝트 <sub>NVIDIA AI Academy · 경동대학교</sub>
+## 🎓 공개 프로젝트 <sub>NVIDIA AI Academy </sub>
 
 | 프로젝트 | 설명 | 기술 |
 | --- | --- | --- |
