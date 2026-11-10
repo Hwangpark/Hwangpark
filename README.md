@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+%2F+MLOps+Engineer;Full-Stack+Developer;Building+AI+that+works+in+production)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-minsu1009%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:minsu1009@naver.com)
 
 </div>
 
